@@ -2,6 +2,8 @@ Typist (Japanese)
 
 http://www5b.biglobe.ne.jp/~kzfmsp/typist/
 
+( sudo apt install libncurses-dev )
+
 cd src
 make
 sudo make install
